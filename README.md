@@ -2,6 +2,6 @@
 
 mi primer repositorio en Gitgub
 
-i love: roast, beer, coffee
+i love :hotdog:, :beer:, :coffee:
 
-i love: cat, car, family
+i love :cat:, :car:, :family:

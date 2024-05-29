@@ -1,6 +1,6 @@
 # Hola_Mundo
 
-mi primer repositorio en Gitgub
+mi primer repositorio en Github
 
 i love :hotdog:, :beer:, :coffee:
 
